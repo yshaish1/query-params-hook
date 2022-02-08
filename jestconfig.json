@@ -5,6 +5,6 @@
   "testRegex": "(/__tests__/.*|(\\.|/)(test|spec))\\.(jsx?|tsx?)$",
   "moduleFileExtensions": ["ts", "tsx", "js", "jsx", "json", "node"],
   "globals": {
-    "window": { "location": { "search": { "param1": "this is param 1" } } }
+    "window": { "location": { "search": { "param1": "this is param 1", "param2": "this is param 2" } } }
   }
 }
