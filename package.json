@@ -1,6 +1,6 @@
 {
   "name": "query-params-hook",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "a better way to get query params on react app",
   "repository": "https://github.com/yshaish1/query-params-hook",
   "license": "MIT",
